@@ -1,6 +1,6 @@
 # Project-Planner-and-Employee-Adding-using-Tabs-and-mySql
 
-
+Open with visual Studio 2019 after downloading zip
 Also added as comments in form1.cs file
 
 
